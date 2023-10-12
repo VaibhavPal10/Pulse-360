@@ -107,7 +107,7 @@ function EmpReview() {
   check();
   return (
     <ThemeProvider  theme={darkGreentheme}>
-      <Container component="main" maxWidth="xs">
+      <Container component="main" maxWidth="xl">
         <CssBaseline />
     <div className="EmpReview">
       <h1>Employee Metrics</h1>
