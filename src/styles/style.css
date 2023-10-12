@@ -21,3 +21,8 @@ body{
     height: min-content;
     width: 100vw;
 }
+.logo{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}

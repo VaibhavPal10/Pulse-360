@@ -107,7 +107,7 @@ export default function Feedback() {
   return (
     <>
       <ThemeProvider theme={darkGreentheme}>
-        <Container component="main" maxWidth="xs">
+        <Container component="main" maxWidth="xl">
           <CssBaseline />
           <AppBar />
           <div className="container">
